@@ -2,6 +2,8 @@
 
 Welcome to the official repository for **Myna: Masking-Based Contrastive Learning of Musical Representations**, submitted to ICML 2025. This repository contains the codebase and public models used in the paper.
 
+![The Myna Framework](https://raw.githubusercontent.com/ghost-signal/myna/refs/heads/main/static/framework.png)
+
 ## Model Checkpoints
 
 We provide pretrained model checkpoints for different configurations of the Myna model:
