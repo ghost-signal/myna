@@ -1,6 +1,6 @@
 # Myna: Masking-Based Contrastive Learning of Musical Representations
 
-Welcome to the official repository for **Myna: Masking-Based Contrastive Learning of Musical Representations**, submitted to ICML 2025. This repository contains the codebase and public models used in the paper.
+Welcome to the official repository for **Myna: Masking-Based Contrastive Learning of Musical Representations**. This repository contains the codebase and public models used in the paper.
 
 ![The Myna Framework](https://raw.githubusercontent.com/ghost-signal/myna/refs/heads/main/static/framework.png)
 
@@ -27,7 +27,7 @@ If you use this code or the models in your research, please cite our work:
 @article{myna2025,
   title={Myna: Masking-Based Contrastive Learning of Musical Representations},
   author={Anonymous},
-  journal={Submitted to ICML},
+  journal={},
   year={2025}
 }
 ```
